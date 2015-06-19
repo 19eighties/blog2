@@ -3,8 +3,8 @@ title: 1980s.me
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  Blog for the 1980's Community.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://19eighties.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.1980s.me" # the base hostname & protocol for your site
 twitter_username: 19eighties
 github_username:  19eighties
 
