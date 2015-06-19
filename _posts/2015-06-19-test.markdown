@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test!"
+date:   2015-06-19 11:49:02
+categories: test
+---
+
+### Test!!
+
+Will this work?
+
+[forum]:      http://1980s.me
